@@ -1,4 +1,6 @@
+![FB_IMG_1677334916437](https://github.com/user-attachments/assets/8a448d87-c193-415c-b69b-db9b6fa82e1c)
 ## Hi there I am Dhruv Bagri👋
+
 
 <!--
 **almightydhruv/almightydhruv** is a student from Haryana, India, who wants to learn new things like coding and cloud computing and how github actually works.✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
